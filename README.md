@@ -6,5 +6,7 @@ is that based on the labeled data (training data) the algorithm tries to find th
 two dimensions the hyperplane is a simple line <br>
 
 **Dataset**<br>
+Can be found in https://www.kaggle.com/rakeshrau/social-network-ads.<br>
+Also stored in this repository.<br>
 
 **Objective**<br>
