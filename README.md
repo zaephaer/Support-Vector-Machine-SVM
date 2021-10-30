@@ -10,3 +10,4 @@ Can be found in https://www.kaggle.com/rakeshrau/social-network-ads.<br>
 Also stored in this repository.<br>
 
 **Objective**<br>
+Exploring the algorithm use in SVM Classification project
